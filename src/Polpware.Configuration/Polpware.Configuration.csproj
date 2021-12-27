@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Polpware</Authors>
+    <Company>Polpware</Company>
+    <Description>A set of utilities for building and using configuration settings.</Description>
+    <Copyright>Polpware 2019</Copyright>
+    <RepositoryType>GIT</RepositoryType>
+    <PackageTags>Configuration JSON</PackageTags>
+    <Version>0.1.0</Version>
+  </PropertyGroup>
+
+</Project>
