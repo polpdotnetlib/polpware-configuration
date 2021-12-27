@@ -6,7 +6,7 @@
     <RepositoryType>git</RepositoryType>
     <RepositoryUrl>https://github.com/dotnetpie-opensource/configuration.git</RepositoryUrl>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
-    <Authors>DotNetPie</Authors>
-    <Copyright>DotNetPie</Copyright>    
+    <Authors>Polpware</Authors>
+    <Copyright>Polpware</Copyright>    
   </PropertyGroup>
 </Project>
