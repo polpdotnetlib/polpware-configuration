@@ -4,7 +4,7 @@
     <Version>1.0.0</Version>
     <NoWarn>$(NoWarn);CS1591;CS0436</NoWarn>
     <RepositoryType>git</RepositoryType>
-    <RepositoryUrl>https://github.com/dotnetpie-opensource/configuration.git</RepositoryUrl>
+    <RepositoryUrl>https://github.com/polpdotnetlib/polpware-configuration.git</RepositoryUrl>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <Authors>Polpware</Authors>
     <Copyright>Polpware</Copyright>    
